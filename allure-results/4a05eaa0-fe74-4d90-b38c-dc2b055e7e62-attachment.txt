@@ -1,0 +1,8 @@
+Car brand is :  MG
+Car Title is : MG Cars
+Car prices length are : 6
+b'MG Windsor EV----Prices are-----Rs. 9.65 Lakh'
+b'MG Cyberster----Prices are-----Rs. 15.50 Lakh'
+b'MG Hector----Prices are-----Rs. 69.90 Lakh'
+b'MG Astor----Prices are-----Rs. 38.33 Lakh'
+b'MG Comet EV----Prices are-----Rs. 16.05 Lakh'

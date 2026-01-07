@@ -1,0 +1,1 @@
+[32mINFO    [0m testcases.test_carwale:test_carwale.py:41 ******Inside Select Cars Test*********

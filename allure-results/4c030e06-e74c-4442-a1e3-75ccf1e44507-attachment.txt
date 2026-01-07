@@ -1,0 +1,14 @@
+Car brand is :  Toyota
+Car Title is : Toyota Cars
+Car prices length are : 12
+b'Toyota Glanza----Prices are-----Rs. 6.39 Lakh'
+b'Toyota Urban Cruiser Taisor----Prices are-----Rs. 7.21 Lakh'
+b'Toyota Fortuner----Prices are-----Rs. 33.64 Lakh'
+b'Toyota Innova Hycross----Prices are-----Rs. 18.86 Lakh'
+b'Toyota Innova Crysta----Prices are-----Rs. 18.66 Lakh'
+b'Toyota Hilux----Prices are-----Rs. 28.02 Lakh'
+b'Toyota Fortuner Legender----Prices are-----Rs. 41.54 Lakh'
+b'Toyota Vellfire----Prices are-----Rs. 1.20 Crore'
+b'Toyota Camry----Prices are-----Rs. 47.48 Lakh'
+b'Toyota Rumion----Prices are-----Rs. 10.44 Lakh'
+b'Toyota Land Cruiser----Prices are-----Rs. 2.16 Crore'

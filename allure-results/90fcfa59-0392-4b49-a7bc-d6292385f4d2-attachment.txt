@@ -1,0 +1,19 @@
+Car brand is :  BMW
+Car Title is : BMW Cars
+Car prices length are : 17
+b'BMW M5----Prices are-----Rs. 2.01 Crore'
+b'BMW 2 Series Gran Coupe----Prices are-----Rs. 45.30 Lakh'
+b'BMW 5 Series----Prices are-----Rs. 72.35 Lakh'
+b'BMW 3 Series LWB----Prices are-----Rs. 60.45 Lakh'
+b'BMW M340i----Prices are-----Rs. 72.75 Lakh'
+b'BMW X1----Prices are-----Rs. 50.60 Lakh'
+b'BMW M4----Prices are-----Rs. 1.52 Crore'
+b'BMW M8----Prices are-----Rs. 2.38 Crore'
+b'BMW Z4----Prices are-----Rs. 87.90 Lakh'
+b'BMW iX1 LWB----Prices are-----Rs. 71.20 Lakh'
+b'BMW X3----Prices are-----Rs. 93.60 Lakh'
+b'BMW X5----Prices are-----Rs. 1.79 Crore'
+b'BMW 7 Series----Prices are-----Rs. 1.00 Crore'
+b'BMW M2----Prices are-----Rs. 2.55 Crore'
+b'BMW XM----Prices are-----Rs. 91.00 Lakh'
+b'BMW i7----Prices are-----Rs. 1.20 Crore'
